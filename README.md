@@ -11,6 +11,13 @@ Lyric Match is a web application where users guess the song title based on a sho
 
 ---
 
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/1da4f4b0-1900-4b0a-9019-2b611b1ffac3)
+![image](https://github.com/user-attachments/assets/23fa6e61-5217-4f96-897a-c2f3f5b36392)
+![image](https://github.com/user-attachments/assets/eaf8bdc7-e5b0-43ea-aaa7-52db439a1b03)
+
+
 ## 🚀 Getting Started
 
 ### Prerequisites
