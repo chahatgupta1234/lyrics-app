@@ -138,11 +138,6 @@ Pull requests are welcome! Feel free to fork the repo and submit improvements.
 
 ---
 
-## 📜 License
-This project is open-source under the [MIT License](LICENSE).
-
----
-
 ## 📧 Contact
-For any questions, reach out to **[Your Name]** at **your.email@example.com**.
+For any questions, reach out to **[Chahat Gupta]** at **chahatnit@gmail.com**.
 
